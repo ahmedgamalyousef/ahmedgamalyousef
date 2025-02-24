@@ -13,8 +13,8 @@ Highly skilled and results-driven DevOps Engineer with extensive experience in t
 - **Containeriztion** : Docker , Kubernetes 
 - **CI/CD** : Jenkins , GitHub Actions 
 - **Monitoring** : Prometheus , Grafana 
-- **Cloud Platforms** : AWS , Huawei Cloud ( HCCDA ) 
-- **Version Control System** : Git , GitHub 
+- **Cloud Platforms** : AWS , Huawei ( HCCDA ) , Oracle 
+- **Version Control System** : Git , GitHub , GitLab
 - **Infrastructure As Code** : Terraform , Ansible 
 - **Frontend Technologies** : HTML , CSS 
 - **Networking** : CCNA 
@@ -70,7 +70,8 @@ Highly skilled and results-driven DevOps Engineer with extensive experience in t
 - Red Hat System Administration I (RH124) , MaharaTech - ITIMooca [Certification-Link](https://maharatech.gov.eg/mod/customcert/view.php?id=13324&downloadown=1) 
 - Red Hat System Administration II (RH134) , MaharaTech - ITIMooca [Certification-Link](https://maharatech.gov.eg/mod/customcert/view.php?id=14758&downloadown=1) 
 - Ubuntu Linux Essentials , MaharaTech - ITIMooca [Certification-Link](https://maharatech.gov.eg/mod/customcert/view.php?id=14361&downloadown=1) 
-- Huawei Certified Cloud Developer Associate (HCCDA) , Huawei [Certification-Link](https://connect.huaweicloud.com/intl/en-us/courses/certificate/certificates-list/sp:cloudEdu_en) 
+- Huawei Certified Cloud Developer Associate (HCCDA) , Huawei [Certification-Link](https://connect.huaweicloud.com/intl/en-us/courses/certificate/certificates-list/sp:cloudEdu_en)
+- Oracle Cloud Infrastructure 2024 Certified Foundations Associate, Oracle [Certification-Link](https://brm-certification.oracle.com/apex/f?p=1111:6:102233033424929:::::)
 - Programming Using Python , MaharaTech - ITIMooca [Certification-Link](https://maharatech.gov.eg/mod/customcert/view.php?id=1737&downloadown=1) 
 - Computer Network Fundamentals , MaharaTech - ITIMooca [Certification-Link](https://maharatech.gov.eg/mod/customcert/view.php?id=13360&downloadown=1) 
 - Database Fundamentals , MaharaTech - ITIMooca [Certification-Link](https://maharatech.gov.eg/mod/customcert/view.php?id=7655&downloadown=1) 
