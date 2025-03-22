@@ -65,6 +65,9 @@ Highly skilled and results-driven DevOps Engineer with extensive experience in t
 
 - **[ToDo List Application ](https://github.com/JemyYousef/ToDo-List-App)** **( Loading ..... )**
 
+  **Description :** This project features a robust Python Flask application that performs CRUD operations on a MySQL database . It includes detailed scripts and Kubernetes manifests for seamless deployment on an AWS EKS cluster with
+Amazon RDS for database management and ECR for container registry .
+
 ## CERTIFICATES 
 
 - Red Hat System Administration I (RH124) , MaharaTech - ITIMooca [Certification-Link](https://maharatech.gov.eg/mod/customcert/view.php?id=13324&downloadown=1) 
