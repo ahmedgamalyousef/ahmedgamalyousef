@@ -19,7 +19,7 @@ Highly skilled and results-driven DevOps Engineer with extensive experience in t
 - **Containeriztion** : Docker , Kubernetes 
 - **CI/CD** : Jenkins , GitHub Actions 
 - **Monitoring** : Prometheus , Grafana 
-- **Cloud Platforms** : AWS , Huawei ( HCCDA ) , Oracle 
+- **Cloud Platforms** : AWS , Huawei , Oracle 
 - **Version Control System** : Git , GitHub , GitLab
 - **Infrastructure As Code** : Terraform , Ansible 
 - **Frontend Technologies** : HTML , CSS 
