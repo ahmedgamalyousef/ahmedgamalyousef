@@ -75,7 +75,7 @@ Highly skilled and results-driven DevOps Engineer with extensive experience in t
 Amazon RDS for database management and ECR for container registry .
 
 ## CERTIFICATES 
-
+- AWS Certified Cloud Practitioner , AWS [Certification-Link](https://cp.certmetrics.com/amazon/en/public/verify/credential/b7c18fdfe102460da8352a27e477e976) 
 - Red Hat System Administration I (RH124) , MaharaTech - ITIMooca [Certification-Link](https://maharatech.gov.eg/mod/customcert/view.php?id=13324&downloadown=1) 
 - Red Hat System Administration II (RH134) , MaharaTech - ITIMooca [Certification-Link](https://maharatech.gov.eg/mod/customcert/view.php?id=14758&downloadown=1) 
 - Ubuntu Linux Essentials , MaharaTech - ITIMooca [Certification-Link](https://maharatech.gov.eg/mod/customcert/view.php?id=14361&downloadown=1) 
