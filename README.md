@@ -34,7 +34,7 @@ Highly skilled and results-driven DevOps Engineer with extensive experience in t
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  /> -->
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
@@ -54,13 +54,13 @@ Highly skilled and results-driven DevOps Engineer with extensive experience in t
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo"  />
+<!--   <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo"  /> -->
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ansible" height="40" alt="ansible logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo"  />
+<!--   <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo"  /> -->
 </div>
 
 ## PROJECTS
