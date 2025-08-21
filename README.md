@@ -75,6 +75,7 @@ Highly skilled and results-driven DevOps Engineer with extensive experience in t
 Amazon RDS for database management and ECR for container registry .
 
 ## CERTIFICATES 
+- **[Huawei Certified Cloud Developer Associate Cloud Native (HCCDA-Cloud Native)](https://connect.huaweicloud.com/intl/en-us/courses/certificate/certificates-list/sp:cloudEdu_en)**
 - **[AWS Certified Cloud Practitioner (CLF02)](https://cp.certmetrics.com/amazon/en/public/verify/credential/b7c18fdfe102460da8352a27e477e976)**
 - **[Huawei Certified Cloud Developer Associate AI (HCCDA-AI)](https://connect.huaweicloud.com/intl/en-us/courses/certificate/certificates-list/sp:cloudEdu_en)**
 - **[Oracle Cloud Infrastructure 2024 Certified Foundations Associate](https://brm-certification.oracle.com/apex/f?p=1111:6:102233033424929:::::)**
