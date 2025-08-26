@@ -2,7 +2,7 @@
 #  Welcome to Ahmed Gamal Yousef's profile ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud+DevOps+Engineer;Linux+System+Administrator;Always+Learning+New+Things&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud+Engineer;+DevOps+Engineer;Linux+System+Administrator;Always+Learning+New+Things&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 Highly skilled and results-driven DevOps Engineer with extensive experience in the Information Technology industry . Proficient in designing, implementing and managing complex CI/CD pipelines and infrastructure automation . Adept at utilizing a range of tools and technologies to streamline workflows, enhance system performance and achieve operational excellence . Known for a strong focus on collaboration, problem-solving and continuous improvement with a commitment to delivering high-quality solutions that align with business goals .
 
