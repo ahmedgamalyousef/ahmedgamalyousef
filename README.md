@@ -75,9 +75,10 @@ Highly skilled and results-driven DevOps Engineer with extensive experience in t
 Amazon RDS for database management and ECR for container registry .
 
 ## CERTIFICATES 
-- **[Huawei Certified Cloud Developer Associate Cloud Native (HCCDA-Cloud Native)](https://connect.huaweicloud.com/intl/en-us/courses/certificate/certificates-list/sp:cloudEdu_en)**
+- **[Huawei Certified Cloud Developer Associate-Solution Architectures (HCCDP-Solution Architectures)](https://connect.huaweicloud.com/intl/en-us/courses/certificate/certificates-list/sp:cloudEdu_en)**
+- **[Huawei Certified Cloud Developer Associate-Cloud Native (HCCDA-Cloud Native)](https://connect.huaweicloud.com/intl/en-us/courses/certificate/certificates-list/sp:cloudEdu_en)**
 - **[AWS Certified Cloud Practitioner (CLF02)](https://cp.certmetrics.com/amazon/en/public/verify/credential/b7c18fdfe102460da8352a27e477e976)**
-- **[Huawei Certified Cloud Developer Associate AI (HCCDA-AI)](https://connect.huaweicloud.com/intl/en-us/courses/certificate/certificates-list/sp:cloudEdu_en)**
+- **[Huawei Certified Cloud Developer Associate-AI (HCCDA-AI)](https://connect.huaweicloud.com/intl/en-us/courses/certificate/certificates-list/sp:cloudEdu_en)**
 - **[Oracle Cloud Infrastructure 2024 Certified Foundations Associate](https://brm-certification.oracle.com/apex/f?p=1111:6:102233033424929:::::)**
 - **[Huawei Certified Cloud Developer Associate (HCCDA)](https://connect.huaweicloud.com/intl/en-us/courses/certificate/certificates-list/sp:cloudEdu_en)**
 - **[Red Hat System Administration I (RH124) , MaharaTech - ITIMooca](https://maharatech.gov.eg/mod/customcert/view.php?id=13324&downloadown=1)**
@@ -86,7 +87,7 @@ Amazon RDS for database management and ECR for container registry .
 - **[Programming Using Python , MaharaTech - ITIMooca](https://maharatech.gov.eg/mod/customcert/view.php?id=1737&downloadown=1)**
 - **[Computer Network Fundamentals , MaharaTech - ITIMooca](https://maharatech.gov.eg/mod/customcert/view.php?id=13360&downloadown=1)** 
 - **[Database Fundamentals , MaharaTech - ITIMooca](https://maharatech.gov.eg/mod/customcert/view.php?id=7655&downloadown=1)** 
-- **[HTML & CSS , MaharaTech - ITIMooca](https://maharatech.gov.eg/mod/customcert/view.php?id=1404&downloadown=1)** 
+- **[HTML & CSS , MaharaTech - ITIMooca](https://maharatech.gov.eg/mod/customcert/view.php?id=1404&downloadown=1)**
 
    
 ## 📫 CONTACT ME
