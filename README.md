@@ -12,6 +12,9 @@ Highly skilled and results-driven DevOps Engineer with extensive experience in t
 - 🔭 Currently, work as a DevOps Engineer **@** **Freelance** 
 - 🌱 Focused on expanding knowledge in DevOps & Cloud Technologies  
 
+## 🏢 EXPERIENCE
+-  DevOps Engineer Internship **@** **Ghaymah**
+
 ## 🛠 SKILLS & TOOLS
 
 - **Languages** : Python , C++ , BashScript 
