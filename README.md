@@ -19,8 +19,8 @@ Highly skilled and results-driven DevOps Engineer with extensive experience in t
 - **Containeriztion** : Docker , Kubernetes 
 - **CI/CD** : Jenkins , GitHub Actions 
 - **Monitoring** : Prometheus , Grafana 
-- **Cloud Platforms** : AWS , Huawei , Oracle 
-- **Version Control System** : Git , GitHub , GitLab
+- **Cloud Platforms** : AWS , Huawei , Oracle , Ghaymah
+- **Version Control System** : Git , GitHub , GitLab , GitPasha
 - **Infrastructure As Code** : Terraform , Ansible 
 - **Frontend Technologies** : HTML , CSS 
 - **Networking** : CCNA 
@@ -65,14 +65,23 @@ Highly skilled and results-driven DevOps Engineer with extensive experience in t
 
 ## PROJECTS
 
-- **[HiveBox-Scalable-RESTFUL-API-For-Beekeepers](https://github.com/JemyYousef/HiveBox-Scalable-RESTFUL-API-For-Beekeepers)**
-  
-  **Description :** I successfully led the HiveBox project which involved building a scalable RESTFUL API around OpenSenseMap to assist beekeepers with their chores . This project was part of the Dynamic DevOps Roadmap and covered various phases of the DevOps lifecycle .
+- **[Deployment of an Application on Ghaymah Cloud  ](https://github.com/ahmedgamalyousef/Small-Weather-App)** **( Loading ..... )**
+
+  **Description :** This project features a deployment of CI/CD pipeline of an Application on Ghaymah Cloud . This Application provides real-time
+weather data through a RESTFUL API and web interface . Built with Python and Flask, this application seamlessly integrates
+with the OpenWeatherMap API to deliver comprehensive meteorological information for cities worldwide .
+
 
 - **[ToDo List Application ](https://github.com/JemyYousef/ToDo-List-App)** **( Loading ..... )**
 
   **Description :** This project features a robust Python Flask application that performs CRUD operations on a MySQL database . It includes detailed scripts and Kubernetes manifests for seamless deployment on an AWS EKS cluster with
 Amazon RDS for database management and ECR for container registry .
+
+- **[HiveBox-Scalable-RESTFUL-API-For-Beekeepers](https://github.com/JemyYousef/HiveBox-Scalable-RESTFUL-API-For-Beekeepers)**
+  
+  **Description :** I successfully led the HiveBox project which involved building a scalable RESTFUL API around OpenSenseMap to assist beekeepers with their chores . This project was part of the Dynamic DevOps Roadmap and covered various phases of the DevOps lifecycle .
+
+
 
 ## CERTIFICATES 
 - **[Huawei Certified Cloud Developer Professional Solution Architectures (HCCDP-Solution Architectures)](https://connect.huaweicloud.com/intl/en-us/courses/certificate/certificates-list/sp:cloudEdu_en)**
