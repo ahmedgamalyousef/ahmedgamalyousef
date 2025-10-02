@@ -87,19 +87,20 @@ Amazon RDS for database management and ECR for container registry .
 
 
 ## CERTIFICATES 
-- **[Huawei Certified Cloud Developer Professional Solution Architectures (HCCDP-Solution Architectures)](https://connect.huaweicloud.com/intl/en-us/courses/certificate/certificates-list/sp:cloudEdu_en)**
-- **[Huawei Certified Cloud Developer Associate Cloud Native (HCCDA-Cloud Native)](https://connect.huaweicloud.com/intl/en-us/courses/certificate/certificates-list/sp:cloudEdu_en)**
-- **[AWS Certified Cloud Practitioner (CLF02)](https://cp.certmetrics.com/amazon/en/public/verify/credential/b7c18fdfe102460da8352a27e477e976)**
-- **[Huawei Certified Cloud Developer Associate AI (HCCDA-AI)](https://connect.huaweicloud.com/intl/en-us/courses/certificate/certificates-list/sp:cloudEdu_en)**
-- **[Oracle Cloud Infrastructure 2024 Certified Foundations Associate](https://brm-certification.oracle.com/apex/f?p=1111:6:102233033424929:::::)**
-- **[Huawei Certified Cloud Developer Associate (HCCDA)](https://connect.huaweicloud.com/intl/en-us/courses/certificate/certificates-list/sp:cloudEdu_en)**
-- **[Red Hat System Administration I (RH124) , MaharaTech - ITIMooca](https://maharatech.gov.eg/mod/customcert/view.php?id=13324&downloadown=1)**
-- **[Red Hat System Administration II (RH134) , MaharaTech - ITIMooca](https://maharatech.gov.eg/mod/customcert/view.php?id=14758&downloadown=1)**
-- **[Ubuntu Linux Essentials , MaharaTech - ITIMooca](https://maharatech.gov.eg/mod/customcert/view.php?id=14361&downloadown=1)**
-- **[Programming Using Python , MaharaTech - ITIMooca](https://maharatech.gov.eg/mod/customcert/view.php?id=1737&downloadown=1)**
-- **[Computer Network Fundamentals , MaharaTech - ITIMooca](https://maharatech.gov.eg/mod/customcert/view.php?id=13360&downloadown=1)** 
-- **[Database Fundamentals , MaharaTech - ITIMooca](https://maharatech.gov.eg/mod/customcert/view.php?id=7655&downloadown=1)** 
-- **[HTML & CSS , MaharaTech - ITIMooca](https://maharatech.gov.eg/mod/customcert/view.php?id=1404&downloadown=1)**
+- **[Huawei Certified ICT Associate Cloud Computing Course (HCIA)](https://drive.google.com/file/d/1DXPbUtaU8FkqoxIZKLDmR1TfwiuE76rK/view?usp=sharing)**
+- **[Huawei Certified Cloud Developer Professional Solution Architectures (HCCDP-Solution Architectures)](https://drive.google.com/file/d/18n0bUP_RTVAamGaJY-PPbMAyJTObYlpk/view?usp=sharing)**
+- **[Huawei Certified Cloud Developer Associate Cloud Native (HCCDA-Cloud Native)](https://drive.google.com/file/d/1QpM131DJNCVcR_39ofeGgiJhfp772rVw/view?usp=sharing)**
+- **[AWS Certified Cloud Practitioner (CLF02)](https://www.credly.com/badges/332da16f-3fd7-4a47-b05d-c079ceb78033)**
+- **[Huawei Certified Cloud Developer Associate AI (HCCDA-AI)](https://drive.google.com/file/d/16GbenA3AvFciKGG0NEEjyIK9faEnEtoL/view?usp=sharing)**
+- **[Oracle Cloud Infrastructure 2024 Certified Foundations Associate](https://drive.google.com/file/d/14_L62_4qO6EY7f6lozF728wk0W3sjsfB/view?usp=sharing)**
+- **[Huawei Certified Cloud Developer Associate (HCCDA)](https://drive.google.com/file/d/1RA_KsA1YyypJx9mLqLZe5G_rzNiJpED1/view?usp=sharing)**
+- **[Red Hat System Administration I (RH124) , MaharaTech](https://drive.google.com/file/d/1DM2515daRbr4lWbMzxo9gHVbaLB6YiFF/view?usp=sharing)**
+- **[Red Hat System Administration II (RH134) , MaharaTech](https://drive.google.com/file/d/1hVi6o0FRGvQDIXVNAzd8qNovCCR9AENT/view?usp=sharing)**
+- **[Ubuntu Linux Essentials , MaharaTech](https://drive.google.com/file/d/1w-c7nROqaY7ZjPHZcITPaHo181pjpYfz/view?usp=sharing)**
+- **[Python Programming Basics , MaharaTech](https://drive.google.com/file/d/1TyHm1uao3qGITzmQhPriLy7BnpKQA1lO/view?usp=sharing)**
+- **[Computer Network Fundamentals , MaharaTech](https://drive.google.com/file/d/1zJ3Sf83q8iAHzUd4dGh6JW6ZJHBkOWGF/view?usp=sharing)** 
+- **[Database Fundamentals , MaharaTech](https://drive.google.com/file/d/1sDJOQENF5oqYVtZ1qdasWaQ2Wi9zDLt4/view?usp=sharing)** 
+- **[HTML & CSS , MaharaTech](https://drive.google.com/file/d/1VD7CkMFbxvkHn-nYG5qlGN_eIEmLlXZr/view?usp=sharing)**
 
    
 ## 📫 CONTACT ME
