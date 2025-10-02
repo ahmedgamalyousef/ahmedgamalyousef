@@ -13,7 +13,7 @@ Highly skilled and results-driven DevOps Engineer with extensive experience in t
 - 🌱 Focused on expanding knowledge in DevOps & Cloud Technologies  
 
 ## 🏢 EXPERIENCE
--  DevOps Engineer Internship **@** **Ghaymah**
+-  DevOps Engineer Trainee **@** **Ghaymah**
 
 ## 🛠 SKILLS & TOOLS
 
