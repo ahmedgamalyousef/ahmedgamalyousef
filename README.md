@@ -87,6 +87,7 @@ Amazon RDS for database management and ECR for container registry .
 
 
 ## CERTIFICATES 
+- **[AWS Certified Solutions Architect – Associate (SAA-C03)](https://www.credly.com/badges/332da16f-3fd7-4a47-b05d-c079ceb78033)**
 - **[Huawei Certified ICT Associate Cloud Computing Course (HCIA)](https://drive.google.com/file/d/1DXPbUtaU8FkqoxIZKLDmR1TfwiuE76rK/view?usp=sharing)**
 - **[Huawei Certified Cloud Developer Professional Solution Architectures (HCCDP-Solution Architectures)](https://drive.google.com/file/d/18n0bUP_RTVAamGaJY-PPbMAyJTObYlpk/view?usp=sharing)**
 - **[Huawei Certified Cloud Developer Associate Cloud Native (HCCDA-Cloud Native)](https://drive.google.com/file/d/1QpM131DJNCVcR_39ofeGgiJhfp772rVw/view?usp=sharing)**
