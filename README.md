@@ -86,16 +86,16 @@ Amazon RDS for database management and ECR for container registry .
   **Description :** I successfully led the HiveBox project which involved building a scalable RESTFUL API around OpenSenseMap to assist beekeepers with their chores . This project was part of the Dynamic DevOps Roadmap and covered various phases of the DevOps lifecycle .
 
 
-
 ## CERTIFICATES 
 - **[AWS Certified Solutions Architect – Associate (SAA-C03)](https://www.credly.com/earner/earned/badge/9ec4f523-c9d3-4d7b-810c-29cec35ac6ab)**
-- **[Huawei Certified ICT Associate Cloud Computing Course (HCIA)](https://drive.google.com/file/d/1DXPbUtaU8FkqoxIZKLDmR1TfwiuE76rK/view?usp=sharing)**
+- **[AWS Certified Cloud Practitioner (CLF02)](https://www.credly.com/badges/332da16f-3fd7-4a47-b05d-c079ceb78033)**
 - **[Huawei Certified Cloud Developer Professional Solution Architectures (HCCDP-Solution Architectures)](https://drive.google.com/file/d/18n0bUP_RTVAamGaJY-PPbMAyJTObYlpk/view?usp=sharing)**
 - **[Huawei Certified Cloud Developer Associate Cloud Native (HCCDA-Cloud Native)](https://drive.google.com/file/d/1QpM131DJNCVcR_39ofeGgiJhfp772rVw/view?usp=sharing)**
-- **[AWS Certified Cloud Practitioner (CLF02)](https://www.credly.com/badges/332da16f-3fd7-4a47-b05d-c079ceb78033)**
+- **[Huawei Certified Cloud Developer Associate Big Data (HCCDA-Big Data)](https://drive.google.com/file/d/1KGe1RbeX65rMxV_2ouoOseCNvTrVx8JR/view?usp=sharing)**
 - **[Huawei Certified Cloud Developer Associate AI (HCCDA-AI)](https://drive.google.com/file/d/16GbenA3AvFciKGG0NEEjyIK9faEnEtoL/view?usp=sharing)**
-- **[Oracle Cloud Infrastructure 2024 Certified Foundations Associate](https://drive.google.com/file/d/14_L62_4qO6EY7f6lozF728wk0W3sjsfB/view?usp=sharing)**
 - **[Huawei Certified Cloud Developer Associate (HCCDA)](https://drive.google.com/file/d/1RA_KsA1YyypJx9mLqLZe5G_rzNiJpED1/view?usp=sharing)**
+- **[Huawei Certified ICT Associate Cloud Computing Course (HCIA)](https://drive.google.com/file/d/1DXPbUtaU8FkqoxIZKLDmR1TfwiuE76rK/view?usp=sharing)**
+- **[Oracle Cloud Infrastructure 2024 Certified Foundations Associate](https://drive.google.com/file/d/14_L62_4qO6EY7f6lozF728wk0W3sjsfB/view?usp=sharing)**
 - **[Red Hat System Administration I (RH124) , MaharaTech](https://drive.google.com/file/d/1DM2515daRbr4lWbMzxo9gHVbaLB6YiFF/view?usp=sharing)**
 - **[Red Hat System Administration II (RH134) , MaharaTech](https://drive.google.com/file/d/1hVi6o0FRGvQDIXVNAzd8qNovCCR9AENT/view?usp=sharing)**
 - **[Ubuntu Linux Essentials , MaharaTech](https://drive.google.com/file/d/1w-c7nROqaY7ZjPHZcITPaHo181pjpYfz/view?usp=sharing)**
