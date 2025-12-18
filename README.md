@@ -26,7 +26,7 @@ Highly skilled and results-driven DevOps Engineer with extensive experience in t
 - **Cloud Platforms** : AWS , Huawei , Oracle , Ghaymah
 - **Version Control System** : Git , GitHub , GitLab , GitPasha
 - **Infrastructure As Code** : Terraform , Ansible 
-- **Frontend Technologies** : HTML , CSS 
+- **Web Technologies** : HTML , CSS , JavaScript (familiarity)
 - **Networking** : CCNA 
 
 <div align="left">
