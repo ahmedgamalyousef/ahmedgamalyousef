@@ -96,8 +96,8 @@ Amazon RDS for database management and ECR for container registry .
 - **[Huawei Certified Cloud Developer Associate (HCCDA)](https://drive.google.com/file/d/1RA_KsA1YyypJx9mLqLZe5G_rzNiJpED1/view?usp=sharing)**
 - **[Huawei Certified ICT Associate Cloud Computing Course (HCIA)](https://drive.google.com/file/d/1DXPbUtaU8FkqoxIZKLDmR1TfwiuE76rK/view?usp=sharing)**
 - **[Oracle Cloud Infrastructure 2024 Certified Foundations Associate](https://drive.google.com/file/d/14_L62_4qO6EY7f6lozF728wk0W3sjsfB/view?usp=sharing)**
-- **[Red Hat System Administration I (RH124) , MaharaTech](https://drive.google.com/file/d/1DM2515daRbr4lWbMzxo9gHVbaLB6YiFF/view?usp=sharing)**
 - **[Red Hat System Administration II (RH134) , MaharaTech](https://drive.google.com/file/d/1hVi6o0FRGvQDIXVNAzd8qNovCCR9AENT/view?usp=sharing)**
+- **[Red Hat System Administration I (RH124) , MaharaTech](https://drive.google.com/file/d/1DM2515daRbr4lWbMzxo9gHVbaLB6YiFF/view?usp=sharing)**
 - **[Ubuntu Linux Essentials , MaharaTech](https://drive.google.com/file/d/1w-c7nROqaY7ZjPHZcITPaHo181pjpYfz/view?usp=sharing)**
 - **[Python Programming Basics , MaharaTech](https://drive.google.com/file/d/1TyHm1uao3qGITzmQhPriLy7BnpKQA1lO/view?usp=sharing)**
 - **[Computer Network Fundamentals , MaharaTech](https://drive.google.com/file/d/1zJ3Sf83q8iAHzUd4dGh6JW6ZJHBkOWGF/view?usp=sharing)** 
