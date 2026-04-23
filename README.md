@@ -9,12 +9,13 @@ Highly skilled and results-driven DevOps Engineer with extensive experience in t
 
 ## 👩‍💻 ABOUT ME
 - 🏢 DevOps Engineer passionate about DevOps and Cloud solutions
-- 🔭 Currently, work as a DevOps Engineer **@** **Freelance** 
+- 🔭 Currently, work as a DevOps & Cloud Engineer
 - 🌱 Focused on expanding knowledge in DevOps & Cloud Technologies  
 
 ## 🏢 EXPERIENCE
--  Freelance Coding Instructor 
--  DevOps Engineer Trainee **@** **Ghaymah**
+- DevOps & Cloud Instructor *@* **Networkat**
+- DevOps & Cloud Engineer
+- Freelance Coding Instructor
 
 ## 🛠 SKILLS & TOOLS
 
@@ -23,7 +24,7 @@ Highly skilled and results-driven DevOps Engineer with extensive experience in t
 - **Containeriztion** : Docker , Kubernetes 
 - **CI/CD** : Jenkins , GitHub Actions 
 - **Monitoring** : Prometheus , Grafana 
-- **Cloud Platforms** : AWS , Huawei , Oracle , Ghaymah
+- **Cloud Platforms** : AWS , Huawei , Oracle , Ghaymah , Nutanix
 - **Version Control System** : Git , GitHub , GitLab , GitPasha
 - **Infrastructure As Code** : Terraform , Ansible 
 - **Web Technologies** : HTML , CSS , JavaScript (familiarity)
