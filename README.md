@@ -15,7 +15,7 @@ Highly skilled and results-driven DevOps Engineer with extensive experience in t
 ## 🏢 EXPERIENCE
 - DevOps & Cloud Instructor *@* **Networkat**
 - DevOps & Cloud Engineer
-- Freelance Coding Instructor
+- Coding Instructor
 
 ## 🛠 SKILLS & TOOLS
 
