@@ -68,26 +68,7 @@ Highly skilled and results-driven DevOps Engineer with extensive experience in t
 <!--   <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo"  /> -->
 </div>
 
-## PROJECTS
-
-- **[Deployment of an Application on Ghaymah Cloud  ](https://github.com/ahmedgamalyousef/Small-Weather-App)** **( Loading ..... )**
-
-  **Description :** This project features a deployment of CI/CD pipeline of an Application on Ghaymah Cloud . This Application provides real-time
-weather data through a RESTFUL API and web interface . Built with Python and Flask, this application seamlessly integrates
-with the OpenWeatherMap API to deliver comprehensive meteorological information for cities worldwide .
-
-
-- **[ToDo List Application ](https://github.com/JemyYousef/ToDo-List-App)** **( Loading ..... )**
-
-  **Description :** This project features a robust Python Flask application that performs CRUD operations on a MySQL database . It includes detailed scripts and Kubernetes manifests for seamless deployment on an AWS EKS cluster with
-Amazon RDS for database management and ECR for container registry .
-
-- **[HiveBox-Scalable-RESTFUL-API-For-Beekeepers](https://github.com/JemyYousef/HiveBox-Scalable-RESTFUL-API-For-Beekeepers)**
-  
-  **Description :** I successfully led the HiveBox project which involved building a scalable RESTFUL API around OpenSenseMap to assist beekeepers with their chores . This project was part of the Dynamic DevOps Roadmap and covered various phases of the DevOps lifecycle .
-
-
-## CERTIFICATES
+# CERTIFICATES
 - **[Nutanix Certified Professional - Multicloud Infrastructure 6 (NCP-MCI 6.10)](https://www.credly.com/earner/earned/badge/28474295-ad32-42b6-8668-d3e8f2b51619)**
 - **[AWS Certified Machine Learning Engineer – Associate (MLA-C01)](https://www.credly.com/earner/earned/badge/afb6d0e8-9ced-462f-a61b-9be3b0a3c425)**
 - **[AWS Certified Solutions Architect – Associate (SAA-C03)](https://www.credly.com/earner/earned/badge/9ec4f523-c9d3-4d7b-810c-29cec35ac6ab)**
