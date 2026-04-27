@@ -1,5 +1,5 @@
 
-#  Welcome to Ahmed Gamal Yousef's profile ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ![Profile Views](https://komarev.com/ghpvc/?username=mahmoudelqenawey1&style=flat-square&color=brightgreen)
+#  Welcome to Ahmed Gamal Yousef's profile ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
 
 
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
