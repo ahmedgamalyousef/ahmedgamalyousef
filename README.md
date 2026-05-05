@@ -1,20 +1,26 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   <h1>Ahmed Gamal Yousef</h1>
-  <h3>🚀 DevOps & Cloud Engineer | ☁️ Cloud Architect | 🐧 Linux Enthusiast</h3>
+  <h3 style="color:#00BFFF;">⚙️ DevOps & Cloud Engineer | ☁️ Cloud Architect | 🐧 Linux Enthusiast</h3>
 </div>
 
-<img width="260" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<br>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+%26+Cloud+Engineer+%40+IX+Solutions;DevOps+%26+Cloud+Instructor+%40+Networkat;Coding+Instructor;Always+Learning+New+Things&font=Fira+Code&center=false&width=500&height=45&color=00BFFF&vCenter=true&size=18&speed=100&pause=2000">
-</p>
+<div align="center">
+  <img width="220" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+</div>
 
-<br><br>
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+%26+Cloud+Engineer+%40+IX+Solutions;DevOps+%26+Cloud+Instructor+%40+Networkat;Coding+Instructor;Always+Learning+New+Things&font=Fira+Code&center=true&width=550&height=45&color=00BFFF&vCenter=true&size=18&speed=100&pause=2000">
+</div>
+
+
+<br>
 
 > **Highly skilled and results-driven DevOps Engineer with extensive experience in the Information Technology industry. Proficient in designing, implementing, and managing complex CI/CD pipelines and infrastructure automation. Adept at utilizing a range of tools and technologies to streamline workflows, enhance system performance, and achieve operational excellence. Known for a strong focus on collaboration, problem-solving, and continuous improvement with a commitment to delivering high-quality solutions that align with business goals.**
 
----
 
 ## 👨‍💻 About Me
 
@@ -23,17 +29,13 @@
 - 🌱 Focused on expanding knowledge in **DevOps & Cloud Technologies**  
 - 🧠 Always learning — currently exploring **AI/ML integration in DevOps**
 
----
 
 ## 💼 Experience
 
-| Role | Company |
-|------|---------|
-| DevOps & Cloud Engineer | **IX Solutions** |
-| DevOps & Cloud Instructor | **Networkat** |
-| Coding Instructor | — |
+- ⚙️ DevOps & Cloud Engineer **@** **IX Solutions**
+- 📚 DevOps & Cloud Instructor **@** **Networkat**
+- 💻 Coding Instructor
 
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -81,9 +83,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
+
 
 ## 📜 Certifications
+
 
 ### 🏅 Cloud & Infrastructure
 - [Nutanix Certified Professional - Multicloud Infrastructure 6 (NCP-MCI 6.10)](https://www.credly.com/earner/earned/badge/28474295-ad32-42b6-8668-d3e8f2b51619)
@@ -111,7 +114,6 @@
 - [Database Fundamentals](https://drive.google.com/file/d/1sDJOQENF5oqYVtZ1qdasWaQ2Wi9zDLt4/view)
 - [HTML & CSS](https://drive.google.com/file/d/1VD7CkMFbxvkHn-nYG5qlGN_eIEmLlXZr/view)
 
----
 
 ## 📫 Connect with Me
 
