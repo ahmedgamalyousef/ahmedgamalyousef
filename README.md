@@ -14,8 +14,8 @@ Highly skilled and results-driven DevOps Engineer with extensive experience in t
 - 🌱 Focused on expanding knowledge in DevOps & Cloud Technologies  
 
 ## 🏢 EXPERIENCE
+- DevOps & Cloud Engineer *@* **IX Solutions**
 - DevOps & Cloud Instructor *@* **Networkat**
-- DevOps & Cloud Engineer
 - Coding Instructor
 
 ## 🛠 SKILLS & TOOLS
