@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+%26+Cloud+Engineer+%40+IX+Solutions;DevOps+%26+Cloud+Instructor+%40+Networkat;Coding+Instructor;Always+Learning+New+Things&font=Fira+Code&center=true&width=550&height=45&color=00BFFF&vCenter=true&size=18&speed=100&pause=2000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+%26+Cloud+Engineer+%40+IX+Solutions;DevOps+%26+Cloud+Engineer+%40+GeeksCode;DevOps+%26+Cloud+Instructor+%40+Networkat;Coding+Instructor;Always+Learning+New+Things&font=Fira+Code&center=true&width=550&height=45&color=00BFFF&vCenter=true&size=18&speed=100&pause=2000">
 </div>
 
 
@@ -25,7 +25,7 @@
 ## 👨‍💻 About Me
 
 - 🏢 **DevOps Engineer** passionate about DevOps & Cloud solutions  
-- 🔭 Currently working as a **DevOps & Cloud Engineer** @ `IX Solutions`  
+- 🔭 Currently working as a DevOps & Cloud Engineer **@** **IX Solutions**  
 - 🌱 Focused on expanding knowledge in **DevOps & Cloud Technologies**  
 - 🧠 Always learning — currently exploring **AI/ML integration in DevOps**
 
