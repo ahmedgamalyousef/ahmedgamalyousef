@@ -32,7 +32,7 @@
 
 ## 💼 Experience
 
-- ⚙️ DevOps & Cloud Engineer **@** **IX Solutions**
+- 👨‍💻 DevOps & Cloud Engineer **@** **IX Solutions**
 - ⚙️ DevOps & Cloud Engineer **@** **GeeksCode**
 - 📚 DevOps & Cloud Instructor **@** **Networkat**
 - 💻 Freelance Coding Instructor
