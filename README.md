@@ -39,8 +39,6 @@
 
 
 ## 🛠️ Tech Stack & Tools
-
-### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -69,9 +67,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📜 Certifications
-
-
-### 🏅 Cloud & Infrastructure
 - [Nutanix Certified Professional - Multicloud Infrastructure 6 (NCP-MCI 6.10)](https://www.credly.com/earner/earned/badge/28474295-ad32-42b6-8668-d3e8f2b51619)
 - [AWS Certified Machine Learning Engineer – Associate (MLA-C01)](https://www.credly.com/earner/earned/badge/afb6d0e8-9ced-462f-a61b-9be3b0a3c425)
 - [AWS Certified Solutions Architect – Associate (SAA-C03)](https://www.credly.com/earner/earned/badge/9ec4f523-c9d3-4d7b-810c-29cec35ac6ab)
