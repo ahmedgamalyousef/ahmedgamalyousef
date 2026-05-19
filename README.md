@@ -76,7 +76,7 @@
 - [HCCDA - Cloud Native](https://drive.google.com/file/d/1QpM131DJNCVcR_39ofeGgiJhfp772rVw/view)
 - [HCCDA - Big Data](https://drive.google.com/file/d/1KGe1RbeX65rMxV_2ouoOseCNvTrVx8JR/view)
 - [HCCDA - AI](https://drive.google.com/file/d/16GbenA3AvFciKGG0NEEjyIK9faEnEtoL/view)
-- [HCCDA - Cloud Computing](https://drive.google.com/file/d/1RA_KsA1YyypJx9mLqLZe5G_rzNiJpED1/view)
+- [HCCDA ](https://drive.google.com/file/d/1RA_KsA1YyypJx9mLqLZe5G_rzNiJpED1/view)
 
 
 ## 📫 Connect with Me
