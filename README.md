@@ -72,11 +72,11 @@
 - [AWS Certified Solutions Architect – Associate (SAA-C03)](https://www.credly.com/earner/earned/badge/9ec4f523-c9d3-4d7b-810c-29cec35ac6ab)
 - [AWS Certified Cloud Practitioner (CLF-C02)](https://www.credly.com/badges/332da16f-3fd7-4a47-b05d-c079ceb78033)
 - [Oracle Cloud Infrastructure 2024 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=ED2197C890FF0F3946743D5293331596EA0F374BBF04EFD9F186A0574A852B26)
-- [HCCDP - Solution Architectures](https://drive.google.com/file/d/18n0bUP_RTVAamGaJY-PPbMAyJTObYlpk/view)
-- [HCCDA - Cloud Native](https://drive.google.com/file/d/1QpM131DJNCVcR_39ofeGgiJhfp772rVw/view)
-- [HCCDA - Big Data](https://drive.google.com/file/d/1KGe1RbeX65rMxV_2ouoOseCNvTrVx8JR/view)
-- [HCCDA - AI](https://drive.google.com/file/d/16GbenA3AvFciKGG0NEEjyIK9faEnEtoL/view)
-- [HCCDA ](https://drive.google.com/file/d/1RA_KsA1YyypJx9mLqLZe5G_rzNiJpED1/view)
+- [ Huawei Cloud Certified Developer Professional - Solution Architectures (HCCDP - Solution Architectures)](https://drive.google.com/file/d/18n0bUP_RTVAamGaJY-PPbMAyJTObYlpk/view)
+- [ Huawei Cloud Certified Developer Associate - Cloud Native (HCCDA - Cloud Native)](https://drive.google.com/file/d/1QpM131DJNCVcR_39ofeGgiJhfp772rVw/view)
+- [ Huawei Cloud Certified Developer Associate - Big Data (HCCDA - Big Data)](https://drive.google.com/file/d/1KGe1RbeX65rMxV_2ouoOseCNvTrVx8JR/view)
+- [ Huawei Cloud Certified Developer Associate - AI (HCCDA - AI)](https://drive.google.com/file/d/16GbenA3AvFciKGG0NEEjyIK9faEnEtoL/view)
+- [ Huawei Cloud Certified Developer Associate (HCCDA) ](https://drive.google.com/file/d/1RA_KsA1YyypJx9mLqLZe5G_rzNiJpED1/view)
 
 
 ## 📫 Connect with Me
