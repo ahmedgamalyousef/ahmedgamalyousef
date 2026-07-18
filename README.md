@@ -31,7 +31,7 @@
 
 ## 💼 Experience
 
-- ☁️ AWS Coud Security Instructor **@** **Digital Egypt Pioneers Initiative - DEPI**
+- ☁️ AWS Cloud Security Instructor **@** **Digital Egypt Pioneers Initiative - DEPI**
 - 👨‍💻 DevOps & Cloud Engineer **@** **IX Solutions**
 - ⚙️ DevOps & Cloud Engineer **@** **GeeksCode**
 - 📚 DevOps & Cloud Instructor **@** **Networkat**
