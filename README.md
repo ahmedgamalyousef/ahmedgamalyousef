@@ -3,7 +3,6 @@
   <h1>Ahmed Gamal Yousef</h1>
   <h3 style="color:#00BFFF;">⚙️ DevOps & Cloud Engineer | ☁️ Cloud Architect | 🐧 Linux Enthusiast</h3>
 </div>
-
 <br>
 
 <div align="center">
@@ -13,7 +12,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+%26+Cloud+Engineer+%40+IX+Solutions;DevOps+%26+Cloud+Engineer+%40+GeeksCode;DevOps+%26+Cloud+Instructor+%40+Networkat;Freelance+Coding+Instructor;Always+Learning+New+Things&font=Fira+Code&center=true&width=550&height=45&color=00BFFF&vCenter=true&size=18&speed=100&pause=2000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AWS+Cloud+Security+Instructor+%40+DEPI;DevOps+%26+Cloud+Engineer+%40+IX+Solutions;DevOps+%26+Cloud+Engineer+%40+GeeksCode;DevOps+%26+Cloud+Instructor+%40+Networkat;Freelance+Coding+Instructor;Always+Learning+New+Things&font=Fira+Code&center=true&width=550&height=45&color=00BFFF&vCenter=true&size=18&speed=100&pause=2000">
 </div>
 
 
@@ -32,7 +31,7 @@
 
 ## 💼 Experience
 
-- 📚 AWS Coud Security Instructor **@** **Digital Egypt Pioneers Initiative - DEPI**
+- ☁️ AWS Coud Security Instructor **@** **Digital Egypt Pioneers Initiative - DEPI**
 - 👨‍💻 DevOps & Cloud Engineer **@** **IX Solutions**
 - ⚙️ DevOps & Cloud Engineer **@** **GeeksCode**
 - 📚 DevOps & Cloud Instructor **@** **Networkat**
