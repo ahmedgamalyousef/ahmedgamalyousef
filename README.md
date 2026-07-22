@@ -24,7 +24,6 @@
 ## 👨‍💻 About Me
 
 - 🏢 **DevOps Engineer** passionate about DevOps & Cloud solutions  
-- 🔭 Currently working as a DevOps & Cloud Engineer **@** **IX Solutions**  
 - 🌱 Focused on expanding knowledge in **DevOps & Cloud Technologies**  
 - 🧠 Always learning — currently exploring **AI/ML integration in DevOps**
 
