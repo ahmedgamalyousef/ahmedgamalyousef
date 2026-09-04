@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AWS+Cloud+Security+Instructor+%40+DEPI;DevOps+%26+Cloud+Engineer+%40+IX+Solutions;DevOps+%26+Cloud+Engineer+%40+GeeksCode;DevOps+%26+Cloud+Instructor+%40+Networkat;Freelance+Coding+Instructor;Always+Learning+New+Things&font=Fira+Code&center=true&width=550&height=45&color=00BFFF&vCenter=true&size=18&speed=100&pause=2000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+%26+Cloud+Instructor+%40+Instant+Software+Solutions;AWS+Cloud+Security+Instructor+%40+DEPI;DevOps+%26+Cloud+Engineer+%40+IX+Solutions;DevOps+%26+Cloud+Engineer+%40+GeeksCode;DevOps+%26+Cloud+Instructor+%40+Networkat;Freelance+Coding+Instructor;Always+Learning+New+Things&font=Fira+Code&center=true&width=600&height=50&color=00BFFF&vCenter=true&size=18&speed=100&pause=2000">
 </div>
 
 
